@@ -1,0 +1,44 @@
+.experiences {
+    width: 100%;
+    max-width: 1024px;
+    margin: auto;
+}
+
+.container-experincia {
+    max-width: 1024px;
+    margin: auto;
+
+}
+
+.experience-item img {
+    width: 55px;
+    height: 55px;
+    border-radius: 10px;
+}
+
+.experience-title-container {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.experience-title-container .date {
+    margin-left: auto;
+}
+
+.experience-title {
+    color: #000000;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.experience-item {
+    padding: 30px 0;
+    background: #EBEBEB;
+    margin-top: 20px;
+    border-radius: 12px;
+    padding: 10px;
+
+}
